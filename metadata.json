@@ -1,0 +1,10 @@
+{
+  "name": "BLACK GHOST AI",
+  "description": "Premium futuristic personal AI assistant powered by Google Gemini. Reasoning, coding, multimodal document analysis, web search grounding, and smart creativity.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
